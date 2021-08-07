@@ -1,0 +1,5 @@
+.idea
+venv
+*.egg-info
+__auto_hw
+__auto_screens
